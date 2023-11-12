@@ -17,6 +17,5 @@ export class NavbarComponent implements OnInit {
 
   handelLogout() {
     this.authService.logout();
-    this.router.navigateByUrl("/login");
-  }
+   }
 }
