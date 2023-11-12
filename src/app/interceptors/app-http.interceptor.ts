@@ -26,3 +26,5 @@ export class AppHttpInterceptor implements HttpInterceptor {
 
   }
 }
+//ng g g guards/authentication
+//ng g g guards/authorization
